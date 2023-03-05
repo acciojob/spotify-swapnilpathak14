@@ -15,6 +15,7 @@ public class Song {
     }
 
     public String getTitle() {
+
         return title;
     }
 
@@ -23,6 +24,7 @@ public class Song {
     }
 
     public int getLength() {
+
         return length;
     }
 
@@ -31,10 +33,12 @@ public class Song {
     }
 
     public int getLikes() {
+
         return likes;
     }
 
     public void setLikes(int likes) {
+
         this.likes = likes;
     }
 }
