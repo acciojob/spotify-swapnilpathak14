@@ -21,6 +21,7 @@ public class Album {
     }
 
     public void setTitle(String title) {
+
         this.title = title;
     }
 
